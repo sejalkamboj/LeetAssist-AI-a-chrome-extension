@@ -1,1 +1,1 @@
-# LeetAssist-AI--a-chrome-extension
+# LeetAssist-AI-a-chrome-extension
